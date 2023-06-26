@@ -1,0 +1,12 @@
+building,room_number,number_of_beds,status,room_rent
+a,1,28,occupied,878
+a,30,28,free,626
+a,68,30,occupied,8378
+a,39,39,occupied,3838
+b,44,33,free,666
+b,66,33,occupied,989
+b,44,32,free,983
+a,54,32,free,940
+b,54,30,occupied,948
+a,38,54,occupied,987
+b,13,45,occupied,666

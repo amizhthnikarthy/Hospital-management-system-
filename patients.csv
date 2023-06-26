@@ -1,0 +1,9 @@
+name,p_id,date_in,date_out,gender,age,aadhar,insurance,phone,address,disease,room,room_number,email,doc
+"AMITESH ",1191001,2020-11-01,2020-11-14,M,23,123,123,123456789,"10 DOWNING STREET , SANSAD BHAVAN",INFLUENZA,VIP,12,AMITACE@GMAIL.COM,201
+"varun ",1191002,2020-11-02,2020-11-18,m,54,142,144,1998283,"manhattan diagon alley","heart failure and arrythmias",general,13,vrn32@gmail.com,209
+sanghavi,1191089,2020-11-03,2020-11-10,f,28,231,211,76529827,"highrise paradise,buckingham street,jafferkhanpet",sepsis,vip,33,sanhv@hotmail.com,209
+"swastika ",1191008,2020-11-04,2020-11-14,f,37,119,181,12893649,"Bermuda Haven,Ellingham street,serpeck nagar","subarachnoid hemorrhage",general,65,swasti@yahoo.com,204
+"sanskriti ",1191088,2020-11-02,2020-11-30,f,74,233,321,332224,"finland corner, koyembedu nagar",seizure,vip,29,sanspurvi@gmail.com,201
+"swapnil rathore",1191089,2020-11-06,2020-11-09,m,32,1943,228,28392,"manohar vikas bhavan ",anemia,vip,38,swapthore@gmail.com,201
+dewaker,1191072,2020-11-06,2020-11-23,m,94,43441,2425,2466,ghghgjbkjhkhlh,"Alzheimer’s disease",82,45,ghdtdhj,203
+gookle,1191092,2020-11-05,2020-11-30,m,65,3636,33234,33782,fdgehjaihounngomc,Nephritis,general,87,hjhjjhh,202
